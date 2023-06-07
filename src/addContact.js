@@ -63,7 +63,7 @@ class AddContact extends React.Component{
         <div className="flex gap-8 flex-col sm:flex-row">
           <div className="flex gap-8">
             <div className="pt-2">
-              <Link>
+              <Link to= {"/"}>
               <button >
                 <IoMdArrowBack size={28} />
               </button>
